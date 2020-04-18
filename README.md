@@ -1,4 +1,6 @@
-#cd cglib-conv, Create a new dir build, cd build <br>
-#cmake ..
-#make
-#sudo make install
+cd cglib-conv<br>
+create a new dir 'build'<br>
+cd build <br>
+cmake ..<br>
+make<br>
+sudo make install<br>
